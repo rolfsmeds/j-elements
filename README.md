@@ -22,7 +22,6 @@ See the documentation site for all components.
 
 
 
-
 ## Development / testing it locally
 
 Install Node.js and npm, then do the following:
